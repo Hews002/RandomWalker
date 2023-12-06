@@ -4,7 +4,7 @@ import random as rn
 import numpy as np
 n = 10000
 
-print("HELLO I MOUUUUUUUUUUUU")
+print("HELLO I MOUUUUUUUUUU")
 
 class Walker:
   def walk(n):
