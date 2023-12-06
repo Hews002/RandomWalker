@@ -4,6 +4,8 @@ import random as rn
 import numpy as np
 n = 10000
 
+print("HELLO I MOUUUUUUUUUUUU")
+
 class Walker:
   def walk(n):
     x = np.zeros(n)
@@ -31,4 +33,5 @@ plt.title("Random Walk ($n = " + str(n) + "$ steps)")
 plt.plot(x1, y1)
 plt.show()
   
-  
+
+
